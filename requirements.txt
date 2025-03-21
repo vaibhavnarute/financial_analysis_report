@@ -1,0 +1,17 @@
+flask
+fastapi
+uvicorn
+celery
+beautifulsoup4
+requests
+yfinance
+alpha_vantage
+faiss-cpu
+langchain
+google-generativeai
+streamlit
+plotly
+matplotlib
+
+pandas
+numpy
